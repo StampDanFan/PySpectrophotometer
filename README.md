@@ -1,6 +1,8 @@
 # PySpectrophotometer
 Python/Pygame Application for Spectrum Analysis for a Spectrophotometer.
 
+Note: Requires alignment.json file for storing image modification parameters.
+
 Main Menu
 - Use Left and Right Arrow Keys to switch between analyzed graphs
 - Press Enter to see the name of the image.
